@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Serverless, Automation, Power Platform, OpenID Connect and OAuth
 - 💬 Ask me about Identity, Security, Management & Automation, Azure & Infrastructure as Code
 - 📫 How to reach me: [Twitter](https://twitter.com/JanVidarElven), [LinkedIn](https://www.linkedin.com/in/JanVidarElven/), [Blog](https://gotoguy.blog)
+- 🤴🏻 Microsoft MVP Enterprise Mobility
 - ⚡ Fun fact: Passionate about nature, hiking, skiing 🚶 and football ⚽
 
 <!--
